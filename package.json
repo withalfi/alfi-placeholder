@@ -1,0 +1,1 @@
+{"name":"alfi-placeholder","version":"0.0.1","private":true,"description":"Placeholder repo for ALFI.","scripts":{"test":"node -e \"console.log('ok')\""}}
